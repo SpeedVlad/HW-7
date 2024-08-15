@@ -1,0 +1,6 @@
+a:not(a[href="#"]){
+    background: red;
+}
+ul+p {
+    font-size: 24px;
+}
